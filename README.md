@@ -1,2 +1,2 @@
-# FAEGame1
+# ErstwhileGlory
 Initial FAE Game
